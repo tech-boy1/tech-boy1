@@ -7,8 +7,9 @@
 <!---
 tech-boy1/tech-boy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-i'm a compuer engineer
-Network engineer
-IT
-have working in TECH fields 5 years
+---> 
+I'm a Compuer engineer,
+a Network engineer
+a IT guy 
+and have working in TECH fields nearly 5 years
+Getting my verified certification from London,England, India, USA from institues like Cambridge,TELC,study section,BRITISH COUNCIL,GREAT LEARNING and... .
